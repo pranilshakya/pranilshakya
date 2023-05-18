@@ -4,7 +4,7 @@ Hi there, I'm Pranil Shakya👋
 **pranilshakya/pranilshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working as Creative Graphics Designer
-- 🌱 I’m currently studying Bachelors in Computer Application (BCA)
+- 🌱 I’m currently studying Bachelors in Computer Application (BCA) at Thames International College, Kathmandu, Nepal
 - 📫 How to reach me: [Email](pranilshakya123@gmail.com),
                       [LinkedIn](https://www.linkedin.com/in/pranilshakya/),
                       [Behance](https://www.behance.net/pranilshakya/),
